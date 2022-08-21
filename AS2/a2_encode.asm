@@ -1,10 +1,10 @@
 ; a2_morse.asm
 ; CSC 230: Summer 2022
 ;
-; Student name: Yu-Lun Chen [Ian]
+; Student name:
 
-; Student ID: V00887293
-; Date of completed work: 2022/06/24
+; Student ID:
+; Date of completed work:
 ;
 ; *******************************
 ; Code provided for Assignment #2
